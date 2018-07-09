@@ -18,6 +18,5 @@ package org.lineageos.lineageparts.style.models;
 public enum StyleStatus {
     DYNAMIC,
     LIGHT_ONLY,
-    DARK_ONLY,
-    BLACK_ONLY,
+    DARK_ONLY
 }
